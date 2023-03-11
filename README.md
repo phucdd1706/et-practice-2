@@ -1,4 +1,4 @@
-# ET Project 2: Random Array Generator
+# ET Problem 2: Random Array Generator
 
 ## Available Scripts
 
